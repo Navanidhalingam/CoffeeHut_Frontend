@@ -3,4 +3,5 @@
 - **product_catalog**
 - **discount_plans**
 - **testimonials**
+- **Featured_Product**
   
